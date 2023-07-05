@@ -1,0 +1,14 @@
+.nav{
+    background-color: white;
+    z-index: 1000;
+    padding: 1vmax;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav > div{
+    color: brown;
+}
+
